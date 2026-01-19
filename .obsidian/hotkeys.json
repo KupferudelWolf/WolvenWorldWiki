@@ -1,0 +1,10 @@
+{
+  "better-markdown-links:convert-links-in-current-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ]
+}

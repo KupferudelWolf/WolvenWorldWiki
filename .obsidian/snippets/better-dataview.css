@@ -1,0 +1,25 @@
+/* Goal to make in-line dataview properties with brackets more visible */
+/* Works for [this:: property] not that:: property */
+/* Enable under Appearance > CSS Snippets */
+
+body .dataview .inline-field-standalone-value, 
+body .dataview .inline-field-value {
+  background: var(--background-primary);
+  font-size: var(--font-adaptive-normal);
+  color: var(--text-normal);
+}
+
+/* Additional styles to make Dataview key look like ==highlight== syntax */
+body .dataview span.inline-field-key {
+  background-color: var(--text-highlight-bg);
+  color: var(--text-highlight-fg);
+  padding: 0 0.2em;
+  border-radius: 0.2em;
+  font-size: var(--font-adaptive-large); /* Increase font size */
+}
+
+/* Ensure the :: syntax remains visible as well */
+body .dataview span.inline-field-key::after {
+  content: "::";
+  color: var(--text-highlight-fg);
+}

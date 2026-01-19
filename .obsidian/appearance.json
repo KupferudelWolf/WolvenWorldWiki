@@ -1,0 +1,10 @@
+{
+  "accentColor": "#ffcf5d",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "S - Callouts",
+    "NoPropertiesInReadingMode",
+    "Headless Tables"
+  ],
+  "cssTheme": "Flexoki"
+}
