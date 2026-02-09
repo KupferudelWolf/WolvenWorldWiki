@@ -1,0 +1,8 @@
+.trash
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/themes
+.obsidian/graph.json
+.obsidian/plugins/**/*.*
+!.obsidian/plugins/**/data.json
+.obsidian/plugins/digitalgarden/data.json
