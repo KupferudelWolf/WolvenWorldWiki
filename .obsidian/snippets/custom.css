@@ -1,0 +1,162 @@
+body,
+.app-container {
+    --line-height-normal: 1.4;
+    --line-height-tight: 1.1;
+    --p-spacing: 0.667rem;
+    --text-highlight-bg: var(--dark2);
+    --text-highlight-fg: var(--text-muted);
+}
+
+
+.markdown-reading-view .metadata-container {
+    & .multi-select-pill-remove-button {
+        display: none;
+    }
+    & .metadata-add-button {
+        position: absolute;
+        padding-bottom: 0;
+        margin-bottom: 0;
+        overflow: visible;
+        opacity: 0;
+        transition: opacity 0s;
+    }
+    &:hover .metadata-add-button {
+        opacity: 1;
+    }
+}
+
+.cm-highlight,
+.markdown-rendered mark {
+    color: var(--text-highlight-bg);
+    background-color: var(--text-highlight-bg);
+
+    &:hover,
+    .is-mobile & {
+        color: var(--text-highlight-fg); 
+    }
+}
+
+.markdown-rendered mark {
+    &.red {
+        color: var(--color-red);
+        background: none;
+    }
+    &.orange {
+        color: var(--color-orange);
+        background: none;
+    }
+    &.yellow {
+        color: var(--color-yellow);
+        background: none;
+    }
+    &.green {
+        color: var(--color-green);
+        background: none;
+    }
+    &.cyan {
+        color: var(--color-cyan);
+        background: none;
+    }
+    &.blue {
+        color: var(--color-blue);
+        background: none;
+    }
+    &.purple {
+        color: var(--color-purple);
+        background: none;
+    }
+    &.pink {
+        color: var(--color-pink);
+        background: none;
+    }
+}
+
+
+
+
+.nav-files-container {
+    --nav-indentation-guide-color: var(--text-normal);
+
+    & > div > .nav-folder > .nav-folder-title {
+        &, &:hover, & > .collapse-icon svg.svg-icon {
+            --nav-item-color: var(--b0);
+            --nav-item-color-hover: var(--b0);
+            --nav-collapse-icon-color: var(--b0);
+        }
+    }
+
+    /* Make items focused via arrow keys highlighted */
+    & .tree-item-self.has-focus {
+        background-color: var(--background-modifier-hover);
+    }
+
+    /* Based on PLN. */
+    *:not(.git-view) > & > div > .nav-folder {
+        & > .tree-item-self {
+            background-color: var(--color-folder);
+        }
+        & .tree-item-children {
+            --nav-indentation-guide-color: var(--color-folder);
+        }
+
+        &:first-child,
+        &:nth-child(7n+2) {
+            --color-folder: var(--color-red);
+        }
+        &:nth-child(7n+3) {
+            --color-folder: var(--color-orange);
+        }
+        &:nth-child(7n+4) {
+            --color-folder: var(--color-yellow);
+        }
+        &:nth-child(7n+5) {
+            --color-folder: var(--color-green);
+        }
+        &:nth-child(7n+6) {
+            --color-folder: var(--color-cyan);
+        }
+        &:nth-child(7n) {
+            --color-folder: var(--color-blue);
+        }
+        &:nth-child(7n+1) {
+            --color-folder: var(--color-purple);
+        }
+    }
+}
+
+body:not(.is-grabbing) .tree-item-self {
+    --nav-item-color-hover: var(--nav-indentation-guide-color);
+    --nav-item-color-active: var(--nav-indentation-guide-color);
+}
+
+body:not(.is-grabbing) .tree-item-self.is-active:hover,
+body:not(.is-grabbing) .tree-item-self.is-clickable:hover,
+.tree-item-self.is-active {
+    color: var(--nav-item-color-active);
+    font-weight: var(--nav-item-weight-active);
+}
+
+.multi-select-pill-content {
+    margin-inline-start: var(--pill-padding-x);
+    margin-inline-end: var(--pill-padding-x);
+}
+
+.markdown-rendered .contains-task-list.has-list-bullet .task-list-item {
+   &[data-task="-"] {
+        /* Canceled */
+        & {
+            text-decoration: var(--checklist-done-decoration);
+            color: var(--checklist-done-color);
+        }
+        & .task-list-item-checkbox {
+           background: none;
+        }
+    }
+    &[data-task="/"] {
+        /* Partial */
+        &.is-checked .task-list-item-checkbox {
+            box-shadow: inset 0px -3px 0px 2px var(--background-primary),
+                        inset 0px  3px 0px 2px var(--background-primary);
+        }
+    }
+}

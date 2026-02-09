@@ -4,7 +4,8 @@
   "enabledCssSnippets": [
     "S - Callouts",
     "NoPropertiesInReadingMode",
-    "Headless Tables"
+    "Headless Tables",
+    "custom"
   ],
-  "cssTheme": "Flexoki"
+  "cssTheme": "Obsidian gruvbox"
 }
