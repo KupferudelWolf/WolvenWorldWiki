@@ -29,7 +29,7 @@ If flux touches something with less flux than its **flux capacity** can hold, th
 
 Flux has physical limitations.
 1. Flux cannot be created or destroyed.
-2. Flux cannot be colorless.
+2. Flux cannot have 0 or 1 saturation or value. The universal average of both is exactly 0.5 and cannot increase or decrease in a closed system.
 3. Flux fills its volume; space cannot be a complete flux vacuum.
 
 ## Colors
@@ -55,7 +55,7 @@ Color corresponds directly to the magical properties flux influences. To general
 This mnemonic device also helps clarify complimentary colors; heat obviously opposes cold, and sky presumably opposes ground.
 
 ### Saturation & Value
-The **value** of the flux denotes its density. Darker flux has less power; it will absorb surrounding flux, or else shrink, until its value is close to the maximum.
+The **value** of the flux denotes its density. Darker flux has less power; it will absorb surrounding flux, or else shrink, until its value and size are closer to the surrounding flux.
 
 The **saturation** of flux corresponds to how easy it is to tint. Pale flux is more flexible, while vivid flux is more readily usable.
 
