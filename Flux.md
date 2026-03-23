@@ -25,6 +25,20 @@ Flux is a necessary component for **spellcasting**. A **conduit** is a person wh
 
 If flux touches something with less flux than its **flux capacity** can hold, then it absorbs into that thing. Flux itself can absorb flux it touches, becoming a larger orb, especially if the flux has a similar size or **color**. Ironically, flux becomes exponentially less likely to merge as its size increases.
 
+## Example
+
+Here is practical example to illustrate how flux works.
+
+> You are camping in the woods. You have collected firewood and placed it in a fire pit. But alas, you have no way to light it... right? 
+> 
+> Wrong! You have flux inside you! If you pay attention to it, you can feel it moving around in your body. It's like water, and you can control its flow.
+> 
+> You separate the more reddish flux, letting it flow to a forepaw. (You do have paws, right?) It takes only a second before your paw starts to feel warm, and the rest of your body cold.
+> 
+> Then, you swipe at the wood. Flux spills from your claws and the wood, scattering about as glowy cyan, red, and white orbs. The wood lights ablaze, the flame seeming to absorb a lot of the flux, turning it all red.
+> 
+> You sit by the warm fire. As you absorb its heat, you reclaim some of the red flux you had lost, letting some of your own flux turn more red as desired.
+
 ## Rules
 
 Flux has physical limitations.
@@ -47,10 +61,10 @@ Color corresponds directly to the magical properties flux influences. To general
 
 | Hue | Insinuation | Classical |
 | -- | -- | -- |
-| Magenta | heat; warmth | fire |
-| Yellow | sky | air |
-| Cyan | cold | water |
-| Purple | ground | earth |
+| Magenta | heat, warmth | fire |
+| Yellow | sky, buoyancy | air |
+| Cyan | coldness | water |
+| Purple | ground, weight | earth |
 
 This mnemonic device also helps clarify complimentary colors; heat obviously opposes cold, and sky presumably opposes ground.
 
