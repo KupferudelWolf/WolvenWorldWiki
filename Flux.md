@@ -92,7 +92,7 @@ If something is not at capacity, flux naturally gravitates toward it. The less f
 
 Conduits can **actively** hold more flux than their natural flux capacity can hold. The physical cap to this is exceedingly high and thus trivial. However, a conduit must focus on keeping the flux in their body, else it will spill.
 
-## Spellcasting
+## Casting
 
 A conduit can cast flux at something to cause a magical effect. The **target** of a spell can be an object, another person, or the conduit themself.
 
