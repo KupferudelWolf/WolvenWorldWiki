@@ -8,5 +8,4 @@
 
 
 ## Flux
-1 in-game flux provides 360 kJ of energy (60 kW per 6 seconds)
-(it's canonically 60 kJ)
+1 flux provides 360 kJ (0.1 kW) of energy
