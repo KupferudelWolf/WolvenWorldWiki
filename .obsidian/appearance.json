@@ -5,7 +5,8 @@
     "S - Callouts",
     "NoPropertiesInReadingMode",
     "Headless Tables",
-    "custom"
+    "custom",
+    "gruvbox-customized"
   ],
   "cssTheme": "Obsidian gruvbox"
 }
