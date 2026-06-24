@@ -11,7 +11,7 @@ aliases:
 ---
 The **ætherwolves** are a group of four powerful wolves.
 
-The four ætherwolves are [[Avia]], [[Jaki]], [[Myla]], and [[Wulg]].
+The four ætherwolves are [[Avia]], [[Jaki]], [[Myla]], and [[Wylg]].
 
 ## Origins
 x

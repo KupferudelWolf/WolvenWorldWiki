@@ -8,8 +8,8 @@ tags:
   - wolf
 ---
 > [!infobox|right]
-> # Wulg
-> ![[../_media/wulg.png]]
+> # Wylg
+> ![[../_media/wylg.png]]
 > ###### Summary
 > |  |  |
 > | ---: | ---- |
@@ -21,14 +21,14 @@ tags:
 > |  |  |
 > | ---: | ---- |
 
-**Wulg** is one of the four [[Ætherwolf|ætherwolves]].
+**Wylg** is one of the four [[Ætherwolf|ætherwolves]].
 
 ## Appearance
 x
 
-Wulg has ram-like crystal horns made of fluorescent scheelite. They are thus soft and fragile despite their intimidating appearance, though Wulg can easily repair them once damaged.
+Wylg has ram-like crystal horns made of fluorescent scheelite. They are thus soft and fragile despite their intimidating appearance, though Wylg can easily repair them once damaged.
 
 ## Personality
-Wulg is sarcastic and impish.
+Wylg is sarcastic and impish.
 
 x
