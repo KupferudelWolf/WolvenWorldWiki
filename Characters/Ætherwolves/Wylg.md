@@ -21,7 +21,7 @@ tags:
 > |  |  |
 > | ---: | ---- |
 
-**Wylg** is one of the four [[Ætherwolf|ætherwolves]].
+**Wylg** is one of the four [[Magic/Ætherwolf|ætherwolves]]lves]].
 
 ## Appearance
 x

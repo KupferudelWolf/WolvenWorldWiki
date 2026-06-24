@@ -23,7 +23,7 @@ tags:
 > | Spouse | [[Naomi]] |
 > | Siblings | [[Myla]] |
 
-**Avia** is one of the four [[Ætherwolf|ætherwolves]]. She resides in ?????????? and is happily married to [[Naomi]]. She is also [[Myla|Myla's]] sister.
+**Avia** is one of the four [[Magic/Ætherwolf|ætherwolves]]. She resides in ?????????? and is happily married to [[Naomi]]. She is also [[Myla|Myla's]] sister.
 
 ## Appearance
 Avia is a small wolf with long, slightly bowed, lightly-colored horns that run parallel to her body up to her rump. Her fur is black, grey, and white, and her eyes are a brilliant orange, with a matching marking beneath her left eye.
