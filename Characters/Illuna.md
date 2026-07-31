@@ -20,9 +20,9 @@ aliases:
 > ###### 
 > |  |  |  |
 > | ---: | ---- | ---- |
-> | Height | ??? cm | ?'??" |
-> | Length | ??? cm | ?'??" |
-> | Weight | ??? kg | ??? lbs |
+> | Height | 27 cm | 10⅔" |
+> | Length | 49 cm | 1' 7¼" |
+> | Weight | 3 kg | 6 lbs 10 oz |
 > ###### Relations
 > |  |  |
 > | ---: | ---- |
@@ -38,7 +38,11 @@ She tends to wear leather bags around her neck, body, and rump. Various trinkets
 In moonlight, her fur appears to sparkle.
 
 ## Personality
-Illuna is naive, youthful, and dreamy. She has a passing interest in many things; she easily gets passionate about new or interesting topics. She is quite spiritual and very interested in the occult. However, she is headstrong about her own beliefs.
+Illuna is naive, youthful, and adamant. She has a passing interest in many things; she easily gets passionate about new or interesting topics, though she can only hold that interest for so long.
+
+She is spiritual and very interested in the occult. She reveres Atona, the "Mother of the Tundra"L: a goddess who honors resilience and instinct.
+
+Illuna is headstrong about her own beliefs and worldviews. She simply cannot be convinced she is wrong, even to herself. She is just good at rationalizing things to herself, even things that make no sense to anyone else.
 
 She feels very lost and out-of-place. She can occasionally be moody. She has periodic depressive episodes where she feels alone and hopeless. Usually, being with friends helps her, but when she is feeling depressed, she fears reaching out would somehow upset or inconvenience her friends.
 
