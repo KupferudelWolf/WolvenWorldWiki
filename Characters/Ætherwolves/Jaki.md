@@ -24,7 +24,7 @@ tags:
 **Jaki** is one of the four [[Magic/Ætherwolf|ætherwolves]].
 
 ## Appearance
-Jackie is a large, imposing wolf with incredibly black fur and piercing yellow eyes. She has black feathers on her head and neck, as well as white and silver flowers growing from her neck. She has four paws.
+Jaki is a large, imposing wolf with incredibly black fur and piercing yellow eyes. She has black feathers on her head and neck, as well as white and silver flowers growing from her neck. She has four paws.
 
 She has enormous wings capable of lifting her in the air despite her large form. Strangely, her wings are a third set of appendages, attached to her back, rather than a part of her actual forelegs. Her flight is clumsy due to her size, especially during takeoff.
 
