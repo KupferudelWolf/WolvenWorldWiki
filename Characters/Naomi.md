@@ -31,4 +31,5 @@ Naomi is a clever, shy, and intelligent fox. She is quiet; when she speaks, she 
 
 Like her wife, she can be quite jealous of others. Unlike her wife, she dislikes having attention.
 
-Every time she sneezes, her surroundings rapidly change to various degrees.
+## Disease
+Naomi is the only known person to have **acute ptarmeffusive syndrome**. Every time she sneezes, she spills a significant amount of flux, causing her surroundings to rapidly change.
